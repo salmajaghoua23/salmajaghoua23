@@ -1,4 +1,4 @@
-# Hi, I'm Salma Jaghoua 👋
+                                          # Hi, I'm Salma Jaghoua 👋
 **Full-Stack Java / Spring Boot Developer · Software Engineering Student (5th year) · AI & Automation Enthusiast**
 🎓 ENSA Al Hoceima · 🇲🇦 Morocco
 
